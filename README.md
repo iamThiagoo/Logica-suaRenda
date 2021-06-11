@@ -12,6 +12,6 @@ Segue um exemplo abaixo:
 
 Para testar a lógica é necessário ter em sua máquina o software Portugol Studio e fazer um Git Clone deste repositório. Caso não tenha e queira testar a lógica, <a href="http://lite.acad.univali.br/portugol/">clique aqui</a> para ser redirecionado para o site de download do Portugol Studio.
 
-## Sua utilidade
+## Utilidade
 
 Fiz essa lógica pois pretendo criar uma aplicação web e para não me perder no raciocínio decidi criar um passo-a-passo básico de como funcionará o projeto, sendo o JavaScript a linguagem escolhida para compor o projeto final. 
